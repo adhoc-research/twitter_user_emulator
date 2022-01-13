@@ -17,7 +17,7 @@ setup(
     version='0.0.1',
     url='https://github.com/equ1/twitter_user_emulator',
     author='Rushat Rai',
-    author_email='rushatrai[at]gmail[dot]com',
+    author_email='rushatrai@gmail.com',
     keywords=['deep-learning', 'gpt-2', 'twitter'],
     include_package_data=True,
     python_requires='>=3.6',
