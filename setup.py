@@ -14,7 +14,7 @@ setup(
     long_description=README,
     long_description_content_type='text/markdown',
     install_requires=INSTALL_PACKAGES,
-    version='0.0.1',
+    version='0.0.2',
     url='https://github.com/equ1/twitter_user_emulator',
     author='Rushat Rai',
     author_email='rushatrai@gmail.com',

@@ -5,7 +5,7 @@ A simple Python package that wraps [scweet](https://github.com/Altimis/Scweet) a
 The idea of this project is to let anyone unfamiliar with GPT-2 to create their own Twitter bot emulating an existing account (e.g., [Deep Leffen](https://twitter.com/DeepLeffen), [Deep Slacks Bot](https://twitter.com/DeepSlacks), [Deep Bumpaah Bot](https://twitter.com/boomer_bump_bot)) in a single API call. The library handles all boilerplate code and basic hyperparameter tuning involved, allowing the user to spend that time curating tweets they want instead.
 
 # Install
-twitter_user_emulator can be installed [via PyPi](https://pypi.org/project/twitter-user-emulator/0.0.1/):
+twitter_user_emulator can be installed [via PyPi](https://pypi.org/project/twitter-user-emulator/):
 
 `pip3 install twitter_user_emulator`
 
