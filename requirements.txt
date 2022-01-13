@@ -1,0 +1,4 @@
+gpt_2_simple==0.8.1
+pandas==1.2.4
+Scweet==1.8
+setuptools==52.0.0.post20210125
